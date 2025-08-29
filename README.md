@@ -10,13 +10,12 @@
 
 | Platform     | Handle              | Profile Link |
 |--------------|---------------------|--------------|
-| 🏆 Codeforces | `<your-handle>`     | [View Profile](https://codeforces.com/profile/<your-handle>) |
-| 🧩 LeetCode   | `<your-handle>`     | [View Profile](https://leetcode.com/<your-handle>/) |
-| 🎯 AtCoder    | `<your-handle>`     | [View Profile](https://atcoder.jp/users/<your-handle>) |
-| 📘 UVA OJ     | `<your-id>`         | [View Profile](https://uhunt.onlinejudge.org/id/<your-id>) |
-| 💡 LightOJ    | `<your-handle>`     | [View Profile](https://lightoj.com/user/<your-handle>) |
-| 💻 HackerRank | `<your-handle>`     | [View Profile](https://www.hackerrank.com/<your-handle>) |
-| ➕ Others     | `<platform>`        | [View Profile](<link>) |
+| 🏆 Codeforces | `Tanvir_Ahmmad`     | [View Profile](https://codeforces.com/profile/Tanvir_Ahmmad) |
+| 🧩 LeetCode   | `Tanvir_Ahmmad`     | [View Profile](https://leetcode.com/u/Tanvir_Ahmmad/) |
+| 📘 UVA OJ     | `Tanvir Ahmmad`     | [View Profile](https://uhunt.onlinejudge.org/id/991702) |
+| 💡 LightOJ    | `tanvirahmmad`      | [View Profile](https://lightoj.com/user/tanvirahmmad) |
+| 🍜 CodeChef   | `tanvir_33`         | [View Profile](https://www.codechef.com/users/tanvir_33) |
+| 🐝 Beecrowd   | `jequation`         | [View Profile](https://judge.beecrowd.com/en/profile/251600) |
 
 ---
 
@@ -24,13 +23,13 @@
 
 | Online Judge | Problems Solved |
 |--------------|-----------------|
-| Codeforces   | 0 |
-| LeetCode     | 0 |
-| UVA          | 0 |
-| AtCoder      | 0 |
-| LightOJ      | 0 |
-| HackerRank   | 0 |
-| **Total**    | 0 |
+| Codeforces   |  917 |
+| LeetCode     |  318 |
+| UVA          |  255 |
+| CodeChef     |   53 |
+| LightOJ      |   40 |
+| Beecrowd     |   87 |
+| **Total**    | 1670 |
 
 > 🔥 I’ll keep updating this table as I solve more problems.
 
@@ -45,7 +44,8 @@
   <!--   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="70" alt="Java"/> -->
   <!--   <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="70" alt="Python"/> -->
   <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="70" alt="JavaScript"/>
-  <!--   <img src="https://img.icons8.com/officel/80/php-logo.png" width="70" alt="PHP"/> -->
+  <!--   <img src="https://img.icons8.com/officel/80/php-logo.png" width="70" alt="PHP"/> | 🎯 AtCoder    | `<your-handle>`     | [View Profile]() | | 💻 HackerRank | `<your-handle>`     | [View Profile]() |
+| ➕ Others     | `<platform>`        | [View Profile]() | -->
 </p>
 
 
