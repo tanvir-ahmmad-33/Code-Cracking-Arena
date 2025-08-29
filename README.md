@@ -44,6 +44,7 @@
   <!--   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="70" alt="Java"/> -->
   <!--   <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="70" alt="Python"/> -->
   <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="70" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="70" alt="MySQL"/>
   <!--   <img src="https://img.icons8.com/officel/80/php-logo.png" width="70" alt="PHP"/> | 🎯 AtCoder    | `<your-handle>`     | [View Profile]() | | 💻 HackerRank | `<your-handle>`     | [View Profile]() |
 | ➕ Others     | `<platform>`        | [View Profile]() | -->
 </p>
