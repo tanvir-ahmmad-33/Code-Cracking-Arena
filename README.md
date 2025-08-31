@@ -8,28 +8,32 @@
 
 ## 🌍 My Profiles
 
-| Platform     | Handle              | Profile Link |
-|--------------|---------------------|--------------|
-| 🏆 Codeforces | `Tanvir_Ahmmad`     | [View Profile](https://codeforces.com/profile/Tanvir_Ahmmad) |
-| 🧩 LeetCode   | `Tanvir_Ahmmad`     | [View Profile](https://leetcode.com/u/Tanvir_Ahmmad/) |
-| 📘 UVA OJ     | `Tanvir Ahmmad`     | [View Profile](https://uhunt.onlinejudge.org/id/991702) |
-| 💡 LightOJ    | `tanvirahmmad`      | [View Profile](https://lightoj.com/user/tanvirahmmad) |
-| 🍜 CodeChef   | `tanvir_33`         | [View Profile](https://www.codechef.com/users/tanvir_33) |
-| 🐝 Beecrowd   | `jequation`         | [View Profile](https://judge.beecrowd.com/en/profile/251600) |
+| Platform      | Handle             | Profile Link                                                 |
+| ------------- | ------------------ | ------------------------------------------------------------ |
+| 🏆 Codeforces | `Tanvir_Ahmmad`    | [View Profile](https://codeforces.com/profile/Tanvir_Ahmmad) |
+| 🧩 LeetCode   | `Tanvir_Ahmmad`    | [View Profile](https://leetcode.com/u/Tanvir_Ahmmad/)        |
+| 📘 UVA OJ     | `Tanvir Ahmmad`    | [View Profile](https://uhunt.onlinejudge.org/id/991702)      |
+| 💡 LightOJ    | `tanvirahmmad`     | [View Profile](https://lightoj.com/user/tanvirahmmad)        |
+| 🍜 CodeChef   | `tanvir_33`        | [View Profile](https://www.codechef.com/users/tanvir_33)     |
+| 🐝 Beecrowd   | `jequation`        | [View Profile](https://judge.beecrowd.com/en/profile/251600) |
+| 🎯 AtCoder    | `Tanvir_Ahmmad_33` | [View Profile](https://atcoder.jp/users/Tanvir_Ahmmad_33)    |
+| 🌐 Toph       | `Big_Pappa`        | [View Profile](https://toph.co/u/Big_Pappa)                  |
 
 ---
 
 ## 📊 Progress Tracking
 
 | Online Judge | Problems Solved |
-|--------------|-----------------|
-| Codeforces   |  917 |
-| LeetCode     |  318 |
-| UVA          |  255 |
-| CodeChef     |   53 |
-| LightOJ      |   40 |
-| Beecrowd     |   87 |
-| **Total**    | 1670 |
+| ------------ | --------------- |
+| Codeforces   | 917             |
+| LeetCode     | 323             |
+| UVA          | 255             |
+| CodeChef     | 53              |
+| LightOJ      | 40              |
+| Beecrowd     | 87              |
+| Toph         | 128             |
+| AtCoder      | 23              |
+| **Total**    | 1826            |
 
 > 🔥 I’ll keep updating this table as I solve more problems.
 
@@ -49,11 +53,11 @@
 | ➕ Others     | `<platform>`        | [View Profile]() | -->
 </p>
 
-
 ---
 
 ## ✅ How to Use
 
-1. **Clone the repo**  
+1. **Clone the repo**
    ```bash
    git clone https://github.com/your-username/online-judge-solutions.git
+   ```
