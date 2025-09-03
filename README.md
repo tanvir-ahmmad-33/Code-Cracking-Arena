@@ -4,8 +4,6 @@
   <i>A collection of my solved problems from different Online Judges.</i>
 </p>
 
----
-
 ## 🌍 My Profiles
 
 | Platform      | Handle             | Profile Link                                                 |
@@ -19,23 +17,19 @@
 | 🎯 AtCoder    | `Tanvir_Ahmmad_33` | [View Profile](https://atcoder.jp/users/Tanvir_Ahmmad_33)    |
 | 🌐 Toph       | `Big_Pappa`        | [View Profile](https://toph.co/u/Big_Pappa)                  |
 
----
-
 ## 📊 Progress Tracking
 
 | Online Judge | Problems Solved |
 | ------------ | --------------- |
 | Codeforces   | 917             |
-| LeetCode     | 336             |
+| LeetCode     | 337             |
 | UVA          | 255             |
 | CodeChef     | 53              |
 | LightOJ      | 40              |
 | Beecrowd     | 87              |
 | Toph         | 128             |
 | AtCoder      | 23              |
-| **Total**    | 1839            |
-
----
+| **Total**    | 1840            |
 
 ## 🛠️ Languages Used
 
@@ -50,8 +44,6 @@
   <!--   <img src="https://img.icons8.com/officel/80/php-logo.png" width="70" alt="PHP"/> | 🎯 AtCoder    | `<your-handle>`     | [View Profile]() | | 💻 HackerRank | `<your-handle>`     | [View Profile]() |
 | ➕ Others     | `<platform>`        | [View Profile]() | -->
 </p>
-
----
 
 ## ✅ How to Use
 
