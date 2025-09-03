@@ -26,14 +26,14 @@
 | Online Judge | Problems Solved |
 | ------------ | --------------- |
 | Codeforces   | 917             |
-| LeetCode     | 335             |
+| LeetCode     | 336             |
 | UVA          | 255             |
 | CodeChef     | 53              |
 | LightOJ      | 40              |
 | Beecrowd     | 87              |
 | Toph         | 128             |
 | AtCoder      | 23              |
-| **Total**    | 1838            |
+| **Total**    | 1839            |
 
 ---
 
