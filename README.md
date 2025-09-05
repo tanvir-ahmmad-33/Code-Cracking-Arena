@@ -22,14 +22,14 @@
 | Online Judge | Problems Solved |
 | ------------ | --------------- |
 | Codeforces   | 917             |
-| LeetCode     | 339             |
+| LeetCode     | 340             |
 | UVA          | 255             |
 | CodeChef     | 53              |
 | LightOJ      | 40              |
 | Beecrowd     | 87              |
 | Toph         | 128             |
 | AtCoder      | 23              |
-| **Total**    | 1842            |
+| **Total**    | 1843            |
 
 ## 🛠️ Languages Used
 
